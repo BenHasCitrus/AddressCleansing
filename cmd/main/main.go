@@ -1,4 +1,5 @@
 //Testing git
+//Test second commit
 package main
 
 import (
