@@ -1,0 +1,15 @@
+{
+   
+
+    "SourceFile":"/Users/hasanulbenna/hasanulFiles/sampleCSVs/AddressCleansing/Test_store-data.csv",
+    "AuthID":"a6a27d04-98c5-b78d-af20-3416748cb539",
+    "AuthToken":"xRI9K6eXiELY25CkMzxe",
+    "candidates":"10",
+    "OutputLocation":"/Users/hasanulbenna/Desktop/outputFolder/",
+    "LogLocation":"/Users/hasanulbenna/Desktop/LogFolder/"
+
+   
+
+
+
+}
