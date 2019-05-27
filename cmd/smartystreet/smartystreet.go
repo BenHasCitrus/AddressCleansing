@@ -55,6 +55,7 @@ func GetDataFromFields(clientDatasInput []*fileOperations.ClientData, config con
 	}
 
 	log.Println("OK")
+	log.Println("Testing changes")
 }
 
 //getDataFromAddress - Get details from given street
